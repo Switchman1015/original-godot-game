@@ -1,0 +1,8 @@
+config_version=5
+
+[application]
+config/name="Welp, Another Mission!"
+run/main_scene="res://scenes/main.tscn"
+
+[rendering]
+renderer/rendering_method="forward_plus"
